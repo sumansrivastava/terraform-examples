@@ -1,0 +1,5 @@
+environment="some-text"
+project="sample-project"
+region="sample-region"
+zone="sample-zone"
+machine_type="n1-standard-1"
